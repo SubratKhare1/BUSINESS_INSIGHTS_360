@@ -12,6 +12,7 @@ Focusing on:
 During this project, I've gained experience in:
 
 1.Power Query, both basic & advanced techniques.
+
 2.Working with basic & complex DAX formulas.
 3.Handling data from over 10 tables.
 4.Selecting appropriate visuals and formatting effectively.
