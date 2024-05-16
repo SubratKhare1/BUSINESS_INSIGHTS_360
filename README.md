@@ -5,6 +5,7 @@ AtliQ Hardwares, a rapidly growing tech company, finds itself struggling to matc
 This project aims to create a single report that meets the needs of stakeholders from sales, marketing, finance, and the executive team.
 
 Focusing on:
+
 1.Building a strong foundation with robust data modeling.
 
 2.Designing reports with users in mind, ensuring they're easy to understand and navigate.
@@ -12,6 +13,7 @@ Focusing on:
 3.Providing detailed insights that can be explored further.
 
 During this project, I've gained experience in:
+
 1.Power Query, both basic & advanced techniques.
 
 2.Working with basic & complex DAX formulas.
